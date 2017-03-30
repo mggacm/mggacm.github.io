@@ -3,6 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{622B144F-45DB-435F-9725-3707237B4964}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\LICENSE = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\LICENSE
+		MGGACM_custom.css = MGGACM_custom.css
+		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\prime.html = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\prime.html
+		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
