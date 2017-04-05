@@ -5,7 +5,6 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{622B144F-45DB-435F-9725-3707237B4964}"
 	ProjectSection(SolutionItems) = preProject
-		css\bootstrap.min.css = css\bootstrap.min.css
 		EditBeforeFinalPush.html = EditBeforeFinalPush.html
 		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\LICENSE = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\LICENSE
 		MGGACM_custom.css = MGGACM_custom.css
@@ -14,8 +13,130 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{599919C9-83F8-48F1-905A-2D47F8723D6D}"
+	ProjectSection(SolutionItems) = preProject
+		js\bootstrap.js = js\bootstrap.js
+		js\bootstrap.min.js = js\bootstrap.min.js
+		js\jquery.js = js\jquery.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{05B4E0FD-27C5-4CB1-9711-C277568F21C3}"
+	ProjectSection(SolutionItems) = preProject
+		img\0.001.png = img\0.001.png
+		img\0.01.jpeg = img\0.01.jpeg
+		img\0.02.jpeg = img\0.02.jpeg
+		img\0.03.jpeg = img\0.03.jpeg
+		img\0.04.jpeg = img\0.04.jpeg
+		img\0.05.jpeg = img\0.05.jpeg
+		img\0.06.jpeg = img\0.06.jpeg
+		img\0.07.jpeg = img\0.07.jpeg
+		img\0.08.jpeg = img\0.08.jpeg
+		img\0.09.jpeg = img\0.09.jpeg
+		img\0.10.jpeg = img\0.10.jpeg
+		img\01.jpg = img\01.jpg
+		img\02.jpg = img\02.jpg
+		img\bg.jpg = img\bg.jpg
+		img\callout.jpg = img\callout.jpg
+		img\portfolio-1.jpg = img\portfolio-1.jpg
+		img\portfolio-2.jpg = img\portfolio-2.jpg
+		img\portfolio-3.jpg = img\portfolio-3.jpg
+		img\portfolio-4.jpg = img\portfolio-4.jpg
+		img\they.mov = img\they.mov
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{4120D307-86E6-4D55-A955-9183138AF76F}"
+	ProjectSection(SolutionItems) = preProject
+		css\bootstrap.css = css\bootstrap.css
+		css\bootstrap.min.css = css\bootstrap.min.css
+		css\stylish-portfolio.css = css\stylish-portfolio.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "font-awsome", "font-awsome", "{82D3873A-974D-446A-BCD1-F9ACB10A9BDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{16A50250-823E-4EE4-B7D9-6AD87EEEAA91}"
+	ProjectSection(SolutionItems) = preProject
+		fonts\glyphicons-halflings-regular.eot = fonts\glyphicons-halflings-regular.eot
+		fonts\glyphicons-halflings-regular.svg = fonts\glyphicons-halflings-regular.svg
+		fonts\glyphicons-halflings-regular.ttf = fonts\glyphicons-halflings-regular.ttf
+		fonts\glyphicons-halflings-regular.woff = fonts\glyphicons-halflings-regular.woff
+		fonts\glyphicons-halflings-regular.woff2 = fonts\glyphicons-halflings-regular.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{32FCBF09-DA48-4B20-816D-94651145F0FC}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\css\font-awesome.css = font-awesome\css\font-awesome.css
+		font-awesome\css\font-awesome.min.css = font-awesome\css\font-awesome.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{9AFDEAF7-4835-4CB4-9F90-E592E997503F}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\fonts\fontawesome-webfont.eot = font-awesome\fonts\fontawesome-webfont.eot
+		font-awesome\fonts\fontawesome-webfont.svg = font-awesome\fonts\fontawesome-webfont.svg
+		font-awesome\fonts\fontawesome-webfont.ttf = font-awesome\fonts\fontawesome-webfont.ttf
+		font-awesome\fonts\fontawesome-webfont.woff = font-awesome\fonts\fontawesome-webfont.woff
+		font-awesome\fonts\fontawesome-webfont.woff2 = font-awesome\fonts\fontawesome-webfont.woff2
+		font-awesome\fonts\FontAwesome.otf = font-awesome\fonts\FontAwesome.otf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "less", "less", "{24F6103A-C531-4863-94D4-0A2256444884}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\less\animated.less = font-awesome\less\animated.less
+		font-awesome\less\bordered-pulled.less = font-awesome\less\bordered-pulled.less
+		font-awesome\less\core.less = font-awesome\less\core.less
+		font-awesome\less\fixed-width.less = font-awesome\less\fixed-width.less
+		font-awesome\less\font-awesome.less = font-awesome\less\font-awesome.less
+		font-awesome\less\icons.less = font-awesome\less\icons.less
+		font-awesome\less\larger.less = font-awesome\less\larger.less
+		font-awesome\less\list.less = font-awesome\less\list.less
+		font-awesome\less\mixins.less = font-awesome\less\mixins.less
+		font-awesome\less\path.less = font-awesome\less\path.less
+		font-awesome\less\rotated-flipped.less = font-awesome\less\rotated-flipped.less
+		font-awesome\less\stacked.less = font-awesome\less\stacked.less
+		font-awesome\less\variables.less = font-awesome\less\variables.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scss", "scss", "{F2650CE8-8675-4E33-A92B-C17786206BA7}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\scss\_animated.scss = font-awesome\scss\_animated.scss
+		font-awesome\scss\_bordered-pulled.scss = font-awesome\scss\_bordered-pulled.scss
+		font-awesome\scss\_core.scss = font-awesome\scss\_core.scss
+		font-awesome\scss\_fixed-width.scss = font-awesome\scss\_fixed-width.scss
+		font-awesome\scss\_icons.scss = font-awesome\scss\_icons.scss
+		font-awesome\scss\_larger.scss = font-awesome\scss\_larger.scss
+		font-awesome\scss\_list.scss = font-awesome\scss\_list.scss
+		font-awesome\scss\_mixins.scss = font-awesome\scss\_mixins.scss
+		font-awesome\scss\_path.scss = font-awesome\scss\_path.scss
+		font-awesome\scss\_rotated-flipped.scss = font-awesome\scss\_rotated-flipped.scss
+		font-awesome\scss\_stacked.scss = font-awesome\scss\_stacked.scss
+		font-awesome\scss\_variables.scss = font-awesome\scss\_variables.scss
+		font-awesome\scss\font-awesome.scss = font-awesome\scss\font-awesome.scss
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Store-Front-master", "Store-Front-master", "{5068A75D-1170-401F-A0E0-9C039F0226C9}"
+	ProjectSection(SolutionItems) = preProject
+		Store-Front-master\index.html = Store-Front-master\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MathFacts-master", "MathFacts-master", "{87D65556-330B-4D73-BDD1-A7FB3D1A943D}"
+	ProjectSection(SolutionItems) = preProject
+		MathFacts-master\Mathfacts.sln = MathFacts-master\Mathfacts.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{599919C9-83F8-48F1-905A-2D47F8723D6D} = {622B144F-45DB-435F-9725-3707237B4964}
+		{05B4E0FD-27C5-4CB1-9711-C277568F21C3} = {622B144F-45DB-435F-9725-3707237B4964}
+		{4120D307-86E6-4D55-A955-9183138AF76F} = {622B144F-45DB-435F-9725-3707237B4964}
+		{82D3873A-974D-446A-BCD1-F9ACB10A9BDA} = {622B144F-45DB-435F-9725-3707237B4964}
+		{16A50250-823E-4EE4-B7D9-6AD87EEEAA91} = {622B144F-45DB-435F-9725-3707237B4964}
+		{32FCBF09-DA48-4B20-816D-94651145F0FC} = {82D3873A-974D-446A-BCD1-F9ACB10A9BDA}
+		{9AFDEAF7-4835-4CB4-9F90-E592E997503F} = {82D3873A-974D-446A-BCD1-F9ACB10A9BDA}
+		{24F6103A-C531-4863-94D4-0A2256444884} = {82D3873A-974D-446A-BCD1-F9ACB10A9BDA}
+		{F2650CE8-8675-4E33-A92B-C17786206BA7} = {82D3873A-974D-446A-BCD1-F9ACB10A9BDA}
+		{5068A75D-1170-401F-A0E0-9C039F0226C9} = {622B144F-45DB-435F-9725-3707237B4964}
+		{87D65556-330B-4D73-BDD1-A7FB3D1A943D} = {622B144F-45DB-435F-9725-3707237B4964}
 	EndGlobalSection
 EndGlobal
