@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		MggacmBootStrapCutsom.css = MggacmBootStrapCutsom.css
 		Portfolio.html = Portfolio.html
 		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\prime.html = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\prime.html
-		..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md = ..\..\..\Projects\temples\Porfolio\startbootstrap-stylish-portfolio-gh-pages\README.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{599919C9-83F8-48F1-905A-2D47F8723D6D}"
