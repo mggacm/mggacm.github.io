@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{622B144F-45DB-435F-9725-3707237B4964}"
 	ProjectSection(SolutionItems) = preProject
@@ -37,10 +37,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{05B4E0FD-27C
 		img\02.jpg = img\02.jpg
 		img\bg.jpg = img\bg.jpg
 		img\callout.jpg = img\callout.jpg
+		..\..\..\Pictures\new\Capture11.PNG = ..\..\..\Pictures\new\Capture11.PNG
+		..\..\..\Pictures\new\ElevenNote2.PNG = ..\..\..\Pictures\new\ElevenNote2.PNG
 		img\portfolio-1.jpg = img\portfolio-1.jpg
 		img\portfolio-2.jpg = img\portfolio-2.jpg
 		img\portfolio-3.jpg = img\portfolio-3.jpg
 		img\portfolio-4.jpg = img\portfolio-4.jpg
+		..\..\..\Pictures\new\ShoppingList.PNG = ..\..\..\Pictures\new\ShoppingList.PNG
 		img\they.mov = img\they.mov
 	EndProjectSection
 EndProject
@@ -114,6 +117,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scss", "scss", "{F2650CE8-8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Store-Front-master", "Store-Front-master", "{5068A75D-1170-401F-A0E0-9C039F0226C9}"
 	ProjectSection(SolutionItems) = preProject
+		..\InventoryManagementSystem\InventoryManagementSystem\Views\Home\Index.cshtml = ..\InventoryManagementSystem\InventoryManagementSystem\Views\Home\Index.cshtml
 		Store-Front-master\index.html = Store-Front-master\index.html
 	EndProjectSection
 EndProject
